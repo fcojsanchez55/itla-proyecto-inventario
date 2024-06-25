@@ -1,0 +1,10 @@
+
+1 - Cree una base de datos en MYSQL con el nombre de pdo si va a usar el mismo query que puse en la carpeta DB, 
+
+
+2 - Abra el archivo main.php en vistas y coloque las credenciales de su conexion
+
+3 - Usuario por defecto: jsanchez
+    Clave: Administrador
+
+    #si no funciona agrege un usuario nuevo a la base de datos por medio de phpmyadmin
